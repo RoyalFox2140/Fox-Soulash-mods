@@ -1,0 +1,16 @@
+{
+	"id": "Fox_book_imbuing",
+	"name": "Book Of Imbuing",
+	"requirements": {
+		"milestones": [],
+		"skill": 21
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Book_of_Imbuing"
+		}
+	],
+	"skill_id": "Fox_research",
+	"steps": [],
+	"steps_type": 0
+}

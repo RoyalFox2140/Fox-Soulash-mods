@@ -1,0 +1,16 @@
+{
+	"id": "Fox_book_electromancy",
+	"name": "Book Of Electromancy",
+	"requirements": {
+		"milestones": [],
+		"skill": 26
+	},
+	"rewards": [
+		{
+			"recipe": "invictus_book_of_electromancy"
+		}
+	],
+	"skill_id": "Fox_research",
+	"steps": [],
+	"steps_type": 0
+}

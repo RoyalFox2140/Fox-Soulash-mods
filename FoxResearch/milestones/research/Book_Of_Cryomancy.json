@@ -1,0 +1,16 @@
+{
+	"id": "Fox_book_cryomancy",
+	"name": "Book Of Cryomancy",
+	"requirements": {
+		"milestones": [],
+		"skill": 27
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Book_of_Cryomancy"
+		}
+	],
+	"skill_id": "Fox_research",
+	"steps": [],
+	"steps_type": 0
+}

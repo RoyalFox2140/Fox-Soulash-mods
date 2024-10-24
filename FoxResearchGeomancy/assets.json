@@ -1,0 +1,16 @@
+{
+    "graphics": {
+        "tilesheets": [
+			{
+				"name": "glyph32",
+				"tiles": [ 4, 1 ],
+				"file": "assets/glyphs_new.png"
+			},
+			{
+				"name": "items",
+				"tiles": [ 1, 1 ],
+				"file": "assets/items_new.png"
+			}
+        ]
+    }
+}

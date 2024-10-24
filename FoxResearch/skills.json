@@ -1,0 +1,15 @@
+ [
+	{
+        "id": "Fox_research",
+        "name": "Research",
+        "image": 0,
+        "description": "A noble pursuit, learning from your surroundings and pushing the limits of your knowledge. Through independent effort and the proper materials, you can learn anything without the help of another.\n\nYou can train this skill by creating books and paper, and conducting research.",
+        "exp_sources": [
+            {
+                "id": "craft",
+                "rate": 1
+            }
+        ],
+        "start_level": 1
+    }
+]

@@ -1,0 +1,16 @@
+{
+	"id": "Fox_book_leadership",
+	"name": "Book Of Leadership",
+	"requirements": {
+		"milestones": [],
+		"skill": 9
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Book_of_Leadership"
+		}
+	],
+	"skill_id": "Fox_research",
+	"steps": [],
+	"steps_type": 0
+}

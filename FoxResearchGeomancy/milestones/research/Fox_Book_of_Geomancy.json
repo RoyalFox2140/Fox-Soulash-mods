@@ -1,0 +1,16 @@
+{
+	"id": "Fox_book_geomancy",
+	"name": "Book Of Geomancy",
+	"requirements": {
+		"milestones": [],
+		"skill": 28
+	},
+	"rewards": [
+		{
+			"recipe": "geomancy_book_of_geomancy"
+		}
+	],
+	"skill_id": "Fox_research",
+	"steps": [],
+	"steps_type": 0
+}

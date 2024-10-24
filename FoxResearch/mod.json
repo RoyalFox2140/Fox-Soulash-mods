@@ -1,0 +1,13 @@
+{
+	"author": "Fox",
+	"description": "Create skill books.",
+	"game_required": "0.7.0",
+	"icon": "icon.png",
+	"mods_required": [
+		"core_2"
+	],
+	"name": "Fox's Research mod",
+	"steam_publish_id": 3261927265,
+	"thumbnail": "icon.png",
+	"version": "0.1.0"
+}

@@ -1,0 +1,13 @@
+{
+	"author": "Fox",
+	"description": "Electromancy addon for the research mod.",
+	"game_required": "0.7.0",
+	"icon": "icon.png",
+	"mods_required": [
+		"core_2"
+	],
+	"name": "Electromancy Research",
+	"steam_publish_id": 3261959555,
+	"thumbnail": "icon.png",
+	"version": "0.1.0"
+}

@@ -1,0 +1,16 @@
+{
+	"id": "Fox_book_agriculture",
+	"name": "Book Of Agriculture",
+	"requirements": {
+		"milestones": [],
+		"skill": 4
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Book_of_Agriculture"
+		}
+	],
+	"skill_id": "Fox_research",
+	"steps": [],
+	"steps_type": 0
+}

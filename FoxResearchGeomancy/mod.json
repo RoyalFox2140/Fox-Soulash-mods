@@ -1,0 +1,13 @@
+{
+	"author": "Fox",
+	"description": "Geomancy addon for the research mod.",
+	"game_required": "0.7.0",
+	"icon": "icon.png",
+	"mods_required": [
+		"core_2"
+	],
+	"name": "Geomancy Research",
+	"steam_publish_id": 3261958597,
+	"thumbnail": "icon.png",
+	"version": "0.1.0"
+}

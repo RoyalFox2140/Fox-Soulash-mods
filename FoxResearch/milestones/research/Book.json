@@ -1,0 +1,16 @@
+{
+	"id": "Fox_book",
+	"name": "Book",
+	"requirements": {
+		"milestones": [],
+		"skill": 1
+	},
+	"rewards": [
+		{
+			"recipe": "2006"
+		}
+	],
+	"skill_id": "Fox_research",
+	"steps": [],
+	"steps_type": 0
+}

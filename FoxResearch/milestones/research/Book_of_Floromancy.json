@@ -1,0 +1,16 @@
+{
+	"id": "Fox_book_floromancy",
+	"name": "Book Of Floromancy",
+	"requirements": {
+		"milestones": [],
+		"skill": 30
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Book_of_Floromancy"
+		}
+	],
+	"skill_id": "Fox_research",
+	"steps": [],
+	"steps_type": 0
+}

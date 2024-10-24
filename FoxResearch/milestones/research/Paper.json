@@ -1,0 +1,16 @@
+{
+	"id": "core_2_paper",
+	"name": "Paper",
+	"requirements": {
+		"milestones": [],
+		"skill": 1
+	},
+	"rewards": [
+		{
+			"recipe": "791"
+		}
+	],
+	"skill_id": "Fox_research",
+	"steps": [],
+	"steps_type": 0
+}

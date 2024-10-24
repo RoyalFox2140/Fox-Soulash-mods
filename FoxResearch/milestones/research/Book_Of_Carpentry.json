@@ -1,0 +1,16 @@
+{
+	"id": "Fox_book_carpentry",
+	"name": "Book Of Carpentry",
+	"requirements": {
+		"milestones": [],
+		"skill": 8
+	},
+	"rewards": [
+		{
+			"recipe": "3008"
+		}
+	],
+	"skill_id": "Fox_research",
+	"steps": [],
+	"steps_type": 0
+}

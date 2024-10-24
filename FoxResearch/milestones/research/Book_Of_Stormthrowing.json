@@ -1,0 +1,16 @@
+{
+	"id": "Fox_book_stormthrowing",
+	"name": "Book Of Stormthrowing",
+	"requirements": {
+		"milestones": [],
+		"skill": 24
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Book_of_Stormthrowing"
+		}
+	],
+	"skill_id": "Fox_research",
+	"steps": [],
+	"steps_type": 0
+}

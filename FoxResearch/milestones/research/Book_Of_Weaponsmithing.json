@@ -1,0 +1,16 @@
+{
+	"id": "Fox_book_weaponsmithing",
+	"name": "Book Of Weaponsmithing",
+	"requirements": {
+		"milestones": [],
+		"skill": 19
+	},
+	"rewards": [
+		{
+			"recipe": "3000"
+		}
+	],
+	"skill_id": "Fox_research",
+	"steps": [],
+	"steps_type": 0
+}

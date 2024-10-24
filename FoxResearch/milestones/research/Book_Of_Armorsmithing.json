@@ -1,0 +1,16 @@
+{
+	"id": "Fox_book_armorsmith",
+	"name": "Book Of Armorsmithing",
+	"requirements": {
+		"milestones": [],
+		"skill": 17
+	},
+	"rewards": [
+		{
+			"recipe": "3011"
+		}
+	],
+	"skill_id": "Fox_research",
+	"steps": [],
+	"steps_type": 0
+}

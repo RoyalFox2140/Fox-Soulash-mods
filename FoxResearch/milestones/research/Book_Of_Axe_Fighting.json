@@ -1,0 +1,16 @@
+{
+	"id": "Fox_book_axe_fighting",
+	"name": "Book Of Axe fighting",
+	"requirements": {
+		"milestones": [],
+		"skill": 16
+	},
+	"rewards": [
+		{
+			"recipe": "3009"
+		}
+	],
+	"skill_id": "Fox_research",
+	"steps": [],
+	"steps_type": 0
+}

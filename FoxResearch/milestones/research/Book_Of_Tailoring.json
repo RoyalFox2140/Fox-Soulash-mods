@@ -1,0 +1,16 @@
+{
+	"id": "Fox_book_tailoring",
+	"name": "Book Of Tailoring",
+	"requirements": {
+		"milestones": [],
+		"skill": 11
+	},
+	"rewards": [
+		{
+			"recipe": "3002"
+		}
+	],
+	"skill_id": "Fox_research",
+	"steps": [],
+	"steps_type": 0
+}

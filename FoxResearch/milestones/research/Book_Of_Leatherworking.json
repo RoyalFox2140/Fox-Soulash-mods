@@ -1,0 +1,16 @@
+{
+	"id": "Fox_book_leatherworking",
+	"name": "Book Of Leatherworking",
+	"requirements": {
+		"milestones": [],
+		"skill": 13
+	},
+	"rewards": [
+		{
+			"recipe": "3006"
+		}
+	],
+	"skill_id": "Fox_research",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,16 @@
+{
+	"id": "Fox_book_protection",
+	"name": "Book Of Protection",
+	"requirements": {
+		"milestones": [],
+		"skill": 14
+	},
+	"rewards": [
+		{
+			"recipe": "3004"
+		}
+	],
+	"skill_id": "Fox_research",
+	"steps": [],
+	"steps_type": 0
+}

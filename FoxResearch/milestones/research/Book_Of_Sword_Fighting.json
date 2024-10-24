@@ -1,0 +1,16 @@
+{
+	"id": "Fox_book_sword_fighting",
+	"name": "Book Of Sword Fighting",
+	"requirements": {
+		"milestones": [],
+		"skill": 22
+	},
+	"rewards": [
+		{
+			"recipe": "3003"
+		}
+	],
+	"skill_id": "Fox_research",
+	"steps": [],
+	"steps_type": 0
+}

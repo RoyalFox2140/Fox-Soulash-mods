@@ -1,0 +1,11 @@
+{
+    "graphics": {
+        "tilesheets": [
+            {
+                "name": "skills",
+                "tiles": [ 1, 1 ],
+                "file": "assets/skill_fox_research.png"
+            }
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+	"id": "Fox_book_hunting",
+	"name": "Book Of Hunting",
+	"requirements": {
+		"milestones": [],
+		"skill": 18
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Book_of_Hunting"
+		}
+	],
+	"skill_id": "Fox_research",
+	"steps": [],
+	"steps_type": 0
+}

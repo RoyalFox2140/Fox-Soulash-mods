@@ -1,0 +1,16 @@
+{
+	"id": "Fox_book_construction",
+	"name": "Book Of Construction",
+	"requirements": {
+		"milestones": [],
+		"skill": 10
+	},
+	"rewards": [
+		{
+			"recipe": "3007"
+		}
+	],
+	"skill_id": "Fox_research",
+	"steps": [],
+	"steps_type": 0
+}
